@@ -1,3 +1,4 @@
+# Gaussian Copula Speckle Removal
 This is the demo code for the paper [1]. 
 To run the demo please run `Copula-bcgm-master/ main_resulter.m`
 * For the shearlet toolbox, I have used implementation by LMU group [2]. 
